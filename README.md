@@ -1,7 +1,7 @@
-[![Build Status](https://travis-ci.com/Vauxoo/asdcust.svg?token=rYtuFox23ptYNEopUvKo&branch=10.0)](https://travis-ci.com/Vauxoo/asdcust)
-[![Coverage Status](https://coveralls.io/repos/github/Vauxoo/asdcust/badge.svg?branch=10.0&t=4G2q8J)](https://coveralls.io/github/Vauxoo/asdcust?branch=10.0)
-[![Runbot Status](http://runbot.vauxoo.com/runbot/badge/93/10.0.svg)](http://runbot.vauxoo.com/runbot/repo/git-github-com-vauxoo-asdcust-git-93)
-[![Translation status](http://weblate.vauxoo.com/widgets/asdcust-10-0/-/svg-badge.svg)](http://weblate.vauxoo.com/engage/asdcust-10-0/?utm_source=widget)
+[![Build Status](https://travis-ci.com/Vauxoo/asdcust.svg?token=rYtuFox23ptYNEopUvKo&branch=11.0)](https://travis-ci.com/Vauxoo/asdcust)
+[![Coverage Status](https://coveralls.io/repos/github/Vauxoo/asdcust/badge.svg?branch=11.0&t=4G2q8J)](https://coveralls.io/github/Vauxoo/asdcust?branch=11.0)
+[![Runbot Status](http://runbot.vauxoo.com/runbot/badge/93/11.0.svg)](http://runbot.vauxoo.com/runbot/repo/git-github-com-vauxoo-asdcust-git-93)
+[![Translation status](http://weblate.vauxoo.com/widgets/asdcust-11-0/-/svg-badge.svg)](http://weblate.vauxoo.com/engage/asdcust-11-0/?utm_source=widget)
 
 # asdcust
 This is an imaginary customer, does not contain real data and is not related to any of our customers.
