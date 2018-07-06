@@ -43,7 +43,22 @@ install:
   - travis_install_nightly
 
 script:
+  - |
+    echo "printing debug information"
+    echo "Environment variables:"
+    env
+    echo "----------"
+    echo "git remote -v:"
+    git remote -v
+    echo "----------"
+    echo "git branch -v:"
+    git branch -v
+    echo "----------"
+    echo "git status:"
+    git status
+    echo "----------"
   - travis_run_tests
+
 
 after_success:
   - travis_after_tests_success
