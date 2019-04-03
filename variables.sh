@@ -1,0 +1,8 @@
+export BASE_IMAGE="vauxoo/odoo-100-image"
+export PSQL_VERSION="9.6"
+export VERSION="10.0"
+export ODOO_REPO="vauxoo/odoo"
+export ODOO_BRANCH="10.0"
+export MAIN_APP="asdcust"
+export TRAVIS_PYTHON_VERSION="2.7"
+export COUNTRY=""
